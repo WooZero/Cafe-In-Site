@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+C:/Users/a0108/Desktop/포트폴리오[[:space:]]공부/CafeInSite.zip filter=lfs diff=lfs merge=lfs -text
