@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 *.zip filter=lfs diff=lfs merge=lfs -text
 CafeInSite.zip filter=lfs diff=lfs merge=lfs -text
+=======
+*.zip filter=lfs diff=lfs merge=lfs -text
+C:/Users/a0108/Desktop/포트폴리오[[:space:]]공부/CafeInSite.zip filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 0636b0f29349cec5c0d421493d5d4ecc9d93cbc0
+.zip filter=lfs diff=lfs merge=lfs -text
